@@ -28,4 +28,5 @@ public class Ticker
     {
         isTicking = false;
     }
+    
 }
